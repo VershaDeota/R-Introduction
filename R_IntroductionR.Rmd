@@ -7,7 +7,7 @@ output: html_document
 Q1: Type in "demo(grapics)" in the R console and then run through the various cases to understand how to plot different types of graphs. 
 
 ```{r}
-demo(graphics)
+#demo(graphics)
 ```
 
 Q2: Open the file "mountains.txt" in excel or in a flat file editor and take a look at it. Then read it into a dataframe in R. How many rows and columns does the dataframe have? (All data files for the course are in the DSTMAA_data folder.)
