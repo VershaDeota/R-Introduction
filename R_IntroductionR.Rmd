@@ -14,7 +14,7 @@ Q2: Open the file "mountains.txt" in excel or in a flat file editor and take a l
 
 ```{r}
 mydata <- read.csv("mountains.txt", sep=" ", header=TRUE) #Load data seperated by space into dataframe
-mydata #To display the dataframe
+mydata #display the dataframe
 dim(mydata) # Show dimension of the mydata dataframe
 nrow(mydata) #Show number of rows in the mydata dataframe
 ncol(mydata) #Show number of columns in the mydata dataframe
